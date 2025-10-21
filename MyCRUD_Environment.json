@@ -1,0 +1,19 @@
+{
+  "id": "mycrud-env",
+  "name": "MyCRUD Local",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:8000",
+      "type": "text",
+      "enabled": true
+    },
+    {
+      "key": "productId",
+      "value": "",
+      "type": "text",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}

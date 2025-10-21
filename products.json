@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1500.0,
+      "tags": [
+        "electronics",
+        "computer"
+      ]
+    }
+  ],
+  "next_id": 2
+}
